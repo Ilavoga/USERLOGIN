@@ -29,8 +29,8 @@ body {
   font-family: sans-serif;
   font-size: 18px;
   line-height: 28px;
-  color: var(--black);
-  background: var(--grey-light);
+  color: var(--red);
+  background: var(--light-grey);
 }
 
 /* Typography */
